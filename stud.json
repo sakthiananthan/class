@@ -6,13 +6,6 @@
          "Age": "30",
          "Course": "Python",
          "course duration": "2 months"
-      },
-      {
-         "Sno": 2,
-         "Name": "Sakthi",
-         "Age": "asdfasdf",
-         "Course": "asdf",
-         "course duration": "asdf"
       }
    ]
 }
