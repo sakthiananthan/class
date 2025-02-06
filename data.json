@@ -1,0 +1,9 @@
+{
+    "students":{
+        "1":{
+            "name":"sakthi",
+            "course":"python",
+            "duration":"2 months"
+        }
+    }
+}
