@@ -16,7 +16,7 @@ while True:
         delete()
     else:
         print("invalid choice")
-    con=input("do you want to continue y/n: ")
+    con=input("do you want to continue y/n : ")
     if con=="y":
         continue
     else:
