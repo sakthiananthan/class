@@ -4,7 +4,7 @@ def create():
     print("this is create")
 
 def view():
-    print("this is view")
+    print("This is view")
 
 def update():
     print("this is update")
